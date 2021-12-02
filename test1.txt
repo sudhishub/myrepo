@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 880C-EE44
+
+ Directory of C:\Users\ADMIN\OneDrive\Desktop\MyNewGit
+
+02-12-2021  16:22    <DIR>          .
+02-12-2021  16:22    <DIR>          ..
+02-12-2021  16:22                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  305,035,698,176 bytes free
